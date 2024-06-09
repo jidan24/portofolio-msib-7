@@ -382,7 +382,7 @@ body.light-theme {
 .home__quote h6 {
   font-style: italic; 
   font-size: 0.9rem; 
-  color: white; 
+  color: rgb(208, 22, 22); 
   margin: 0; 
   white-space: normal;
 }
